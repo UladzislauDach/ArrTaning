@@ -37,6 +37,7 @@ public class Main {
             i++;
         }
 
+
         examples.sort(Example::compareTo);
 
         for (Example ex : examples) {
